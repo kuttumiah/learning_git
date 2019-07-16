@@ -1,2 +1,3 @@
 This is a sample text.
-This is the second line of the text file.
+This is the second line of the text file is changing.
+Some new changes.
